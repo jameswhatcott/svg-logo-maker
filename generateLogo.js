@@ -78,3 +78,7 @@ function generateLogo(response) {
 }
 
 init();
+
+
+
+module.exports = generateLogo;
